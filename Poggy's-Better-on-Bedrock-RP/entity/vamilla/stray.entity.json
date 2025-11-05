@@ -12,10 +12,6 @@
         "default": "textures/entity/skeleton/stray",
         "overlay": "textures/entity/skeleton/stray_overlay"
       },
-      "geometry": {
-        "default": "geometry.skeleton.stray.v1.8",
-        "overlay": "geometry.stray.armor.v1.8"
-      },
       "spawn_egg": {
         "texture": "spawn_egg",
         "texture_index": 27

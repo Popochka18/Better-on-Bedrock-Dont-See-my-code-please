@@ -17,9 +17,6 @@
         "five": "textures/entity/mc_game_mobs/passive/stormy_chicken",
         "enchanted": "textures/misc/enchanted_entity_glint_white"
       },
-      "geometry": {
-        "default": "geometry.chicken.v1.12"
-      },
       "animations": {
         "move": "animation.chicken.move",
         "general": "animation.chicken.general",

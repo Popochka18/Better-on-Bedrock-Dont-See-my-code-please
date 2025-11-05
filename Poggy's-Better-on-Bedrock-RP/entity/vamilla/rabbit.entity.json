@@ -15,9 +15,6 @@
         "toast": "textures/entity/rabbit/toast",
         "enchanted": "textures/misc/enchanted_entity_glint_white"
       },
-      "geometry": {
-        "default": "geometry.rabbit.v1.8"
-      },
       "animations": {
         "move": "animation.rabbit.move",
         "baby_transform": "animation.rabbit.baby_transform",

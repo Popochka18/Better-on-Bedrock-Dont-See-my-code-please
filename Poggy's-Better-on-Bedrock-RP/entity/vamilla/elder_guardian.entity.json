@@ -15,10 +15,6 @@
         "beam": "textures/entity/guardian_beam",
         "enchanted": "textures/misc/enchanted_entity_glint_white"
       },
-      "geometry": {
-        "default": "geometry.guardian.v1.8",
-        "ghost": "geometry.guardian"
-      },
       "animations": {
         "setup": "animation.guardian.setup",
         "spikes": "animation.guardian.spikes",

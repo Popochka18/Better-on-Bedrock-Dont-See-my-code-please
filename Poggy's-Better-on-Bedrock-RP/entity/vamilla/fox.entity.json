@@ -8,9 +8,6 @@
         "red": "textures/entity/fox/fox",
         "arctic": "textures/entity/fox/arctic_fox"
       },
-      "geometry": {
-        "default": "geometry.fox"
-      },
       "animations": {
         "walk": "animation.quadruped.walk",
         "look_at_target": "animation.common.look_at_target",

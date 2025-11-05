@@ -11,9 +11,6 @@
         "default": "textures/entity/pillager",
         "enchanted": "textures/misc/enchanted_entity_glint_white"
       },
-      "geometry": {
-        "default": "geometry.pillager"
-      },
       "spawn_egg": {
         "texture": "spawn_egg",
         "texture_index": 56

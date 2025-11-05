@@ -13,9 +13,6 @@
         "default": "textures/entity/spider/cave_spider",
         "enchanted": "textures/misc/enchanted_entity_glint_white"
       },
-      "geometry": {
-        "default": "geometry.spider.v1.8"
-      },
       "scripts": {
         "scale": "0.7"
       },

@@ -18,9 +18,6 @@
         "seven": "textures/entity/mc_game_mobs/passive/ashen_cow",
         "enchanted": "textures/misc/enchanted_entity_glint_white"
       },
-      "geometry": {
-        "default": "geometry.cow.v1.8"
-      },
       "animations": {
         "setup": "animation.cow.setup",
         "walk": "animation.quadruped.walk",

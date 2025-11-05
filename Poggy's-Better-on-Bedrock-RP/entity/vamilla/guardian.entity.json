@@ -15,10 +15,6 @@
         "elder": "textures/entity/guardian_elder",
         "beam": "textures/entity/guardian_beam"
       },
-      "geometry": {
-        "default": "geometry.guardian.v1.8",
-        "ghost": "geometry.guardian"
-      },
       "animations": {
         "setup": "animation.guardian.setup",
         "spikes": "animation.guardian.spikes",

@@ -9,9 +9,6 @@
       "textures": {
         "default": "textures/entity/polarbear"
       },
-      "geometry": {
-        "default": "geometry.polarbear"
-      },
       "animations": {
         "walk": "animation.quadruped.walk",
         "move": "animation.polarbear.move",

@@ -11,9 +11,6 @@
         "siamese": "textures/entity/cat/siamese",
         "wild": "textures/entity/cat/ocelot"
       },
-      "geometry": {
-        "default": "geometry.ocelot.v1.8"
-      },
       "animations": {
         "sneak": "animation.ocelot.sneak",
         "walk": "animation.ocelot.walk",
