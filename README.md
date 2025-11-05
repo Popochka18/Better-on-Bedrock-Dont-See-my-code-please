@@ -1,5 +1,11 @@
 # Better-on-Bedrock
+
+## This is a code for local games? If you want to play this great mod, please don't download any thing from here.
+
 ## Add-On files for Better on Bedrock. Does not include in-development builds.
+
+
+
 
 This Git-Repo will hold a version of Better on Bedrock that's being developed. There will be commits in the official Discord Server. At a later date, these "old versions" will be added to a different repo, not this one.
 
