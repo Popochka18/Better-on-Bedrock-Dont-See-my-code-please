@@ -1,6 +1,8 @@
 # Better-on-Bedrock
 
-## This is a code for local games? If you want to play this great mod, please don't download any thing from here.
+## If you want to play this great mod, please don't download any thing from here.
+All dataminers sucks!
+
 
 ## Add-On files for Better on Bedrock. Does not include in-development builds.
 
